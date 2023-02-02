@@ -30,7 +30,6 @@ export default function Home({ memberTable }:any) {
           <p>
             Testing Micrograph&nbsp;
             <code className={styles.code}></code>
-            <Schedule memberTable={memberTable} />
           </p>
           <div>
             <a
